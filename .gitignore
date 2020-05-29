@@ -59,5 +59,4 @@ typings/
 
 
 /node_modules/
-/dist/
 /example/uploadcare-vue.js
